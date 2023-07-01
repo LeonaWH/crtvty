@@ -1,0 +1,94 @@
+
+body { 
+    margin: 0;
+    padding: 0;
+}
+
+.container-fluid{
+    background-color: #FAFA33;
+
+}
+
+.container-fluid{
+    padding-top: 0%;
+}
+
+.container{
+    margin:0px;
+}
+
+
+#navbar{
+    padding: 0;
+}
+
+#background{
+    position: fixed;
+    width: 100%;
+    height:90vh;
+}
+
+#heroes{
+    color: white;
+    position: fixed;
+    margin: auto;
+    width: 100%;   
+}
+
+#text1{
+    font-family: 'Commissioner', sans-serif;
+    color: #FAFA33;
+    padding-top:5% ;
+    font-size: 5.5rem;
+    gap: 0px;     
+}
+
+#text2{
+    color: white;
+    font-family: 'Chathura', sans-serif;
+    font-size: 3rem;
+    line-height: 5rem;    
+    background-color: rgb(41, 40, 40);
+    padding: 0 1rem;
+}
+
+#ticketbut2{
+    background-color:#FAFA33;
+    border-color: #FAFA33;
+    color: black;
+  
+}
+
+#ticketbut1{
+    background-color: black;
+    color: #FAFA33;
+    border-color: black;
+    border-radius: 0%;
+    font-size: 1.2rem;
+
+}
+
+#speaker{
+    color: black;
+    font-size: 1.2rem;
+    
+}
+
+#agenda{
+    color: black;
+    font-size: 1.2rem;
+}
+
+#workshops{
+    color: grey;
+    font-size: 1.2rem;
+}
+
+#smallpara{
+    margin-top: 20px;
+    font-size: 1.5rem;
+
+}
+
+
+
